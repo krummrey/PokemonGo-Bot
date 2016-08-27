@@ -442,7 +442,7 @@ Key | Info
     "enabled": true,
     "dont_nickname_favorite": false,
     "good_attack_threshold": 0.7,
-    "nickname_template": "{iv_pct}_{iv_ads}"
+    "nickname_template": "{iv_pct}_{iv_ads}",
     "locale": "en"
   }
 }
